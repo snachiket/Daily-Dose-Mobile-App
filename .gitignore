@@ -1,0 +1,41 @@
+## macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+## Xcode user files
+xcuserdata/
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+
+## Build output
+build/
+DerivedData/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+## Swift Package Manager
+.swiftpm/
+Packages/
+Package.resolved
+.build/
+
+## CocoaPods
+Pods/
+
+## Carthage
+Carthage/Build/
+
+## Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+## XcodeGen-generated project (regenerated from project.yml)
+DailyDose.xcodeproj/

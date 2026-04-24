@@ -1,0 +1,256 @@
+{
+  "schemaVersion": 1,
+  "categories": [
+    {
+      "id": "leadership",
+      "name": "Leadership",
+      "summary": "Guide, inspire, and serve others.",
+      "symbolName": "figure.2.and.child.holdinghands",
+      "entries": [
+        {
+          "quote": "A leader is one who knows the way, goes the way, and shows the way.",
+          "author": "John C. Maxwell",
+          "task": "Identify one person you lead today and ask them what support they need most this week."
+        },
+        {
+          "quote": "The function of leadership is to produce more leaders, not more followers.",
+          "author": "Ralph Nader",
+          "task": "Delegate a decision you would normally make yourself. Let the other person own the outcome."
+        },
+        {
+          "quote": "Leadership is the capacity to translate vision into reality.",
+          "author": "Warren Bennis",
+          "task": "Write one sentence describing the vision for your team or family, then share it with someone."
+        },
+        {
+          "quote": "Before you are a leader, success is all about growing yourself. When you become a leader, success is about growing others.",
+          "author": "Jack Welch",
+          "task": "Spend 15 minutes coaching a colleague or family member on something they want to improve."
+        },
+        {
+          "quote": "Leadership is not about titles, positions, or flowcharts. It is about one life influencing another.",
+          "author": "John C. Maxwell",
+          "task": "Send a note of appreciation to someone whose work you rely on quietly."
+        },
+        {
+          "quote": "The greatest leader is not necessarily the one who does the greatest things. He is the one that gets the people to do the greatest things.",
+          "author": "Ronald Reagan",
+          "task": "In your next meeting, speak last. Invite others to speak first and build on their ideas."
+        },
+        {
+          "quote": "Example is not the main thing in influencing others. It is the only thing.",
+          "author": "Albert Schweitzer",
+          "task": "Pick one behavior you want your team to adopt and model it deliberately today."
+        }
+      ]
+    },
+    {
+      "id": "assertiveness",
+      "name": "Assertiveness",
+      "summary": "Speak your truth with clarity and respect.",
+      "symbolName": "megaphone",
+      "entries": [
+        {
+          "quote": "The basic difference between being assertive and being aggressive is how our words and behavior affect the rights and well-being of others.",
+          "author": "Sharon Anthony Bower",
+          "task": "Say 'no' once today to a request that does not fit your priorities, without apologizing excessively."
+        },
+        {
+          "quote": "You have the right to say what you need to say.",
+          "author": "Unknown",
+          "task": "Name one thing you have been avoiding saying, then say it to the person who needs to hear it."
+        },
+        {
+          "quote": "Speak your mind, even if your voice shakes.",
+          "author": "Maggie Kuhn",
+          "task": "In your next conversation, state one opinion clearly starting with 'I think' or 'I believe'."
+        },
+        {
+          "quote": "It is not your job to make people comfortable with your honesty.",
+          "author": "Unknown",
+          "task": "Ask directly for something you want today. No hints, no hedging."
+        },
+        {
+          "quote": "Assertiveness is not what you do, it's who you are.",
+          "author": "Shakti Gawain",
+          "task": "Notice one moment of self-doubt today and replace the thought with a calm, confident statement."
+        },
+        {
+          "quote": "Stand firm in your refusal to remain conscious during algebra. In real life, I assure you, there is no such thing as algebra.",
+          "author": "Fran Lebowitz",
+          "task": "Draw one clear boundary today and communicate it plainly to the person it concerns."
+        }
+      ]
+    },
+    {
+      "id": "quality",
+      "name": "Quality",
+      "summary": "Do a few things, and do them excellently.",
+      "symbolName": "sparkles",
+      "entries": [
+        {
+          "quote": "Quality is never an accident; it is always the result of intelligent effort.",
+          "author": "John Ruskin",
+          "task": "Pick one piece of work on your plate today and improve it by 10% before calling it done."
+        },
+        {
+          "quote": "Quality means doing it right when no one is looking.",
+          "author": "Henry Ford",
+          "task": "Revisit a task you finished yesterday and inspect it as if a stranger had done it for you."
+        },
+        {
+          "quote": "Excellence is the gradual result of always striving to do better.",
+          "author": "Pat Riley",
+          "task": "Identify the one detail in today's work most likely to be ignored, and get it right."
+        },
+        {
+          "quote": "Be a yardstick of quality. Some people aren't used to an environment where excellence is expected.",
+          "author": "Steve Jobs",
+          "task": "Set a clear quality bar for one deliverable today. Write it down before you start."
+        },
+        {
+          "quote": "If a job is worth doing, it is worth doing well.",
+          "author": "Proverb",
+          "task": "Cut one task from your day so you can do another one properly."
+        },
+        {
+          "quote": "Quality is not an act, it is a habit.",
+          "author": "Aristotle",
+          "task": "Establish a 5-minute review ritual at the end of one task today. Check, refine, then ship."
+        }
+      ]
+    },
+    {
+      "id": "large_life",
+      "name": "Large Life",
+      "summary": "Live expansively; refuse a small, fearful existence.",
+      "symbolName": "mountain.2",
+      "entries": [
+        {
+          "quote": "Life shrinks or expands in proportion to one's courage.",
+          "author": "Anaïs Nin",
+          "task": "Do one thing today that slightly scares you but you know would make you proud."
+        },
+        {
+          "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+          "author": "Ralph Waldo Emerson",
+          "task": "Try one small thing you've never tried before — a route, a food, a conversation."
+        },
+        {
+          "quote": "The purpose of life is to live it, to taste experience to the utmost.",
+          "author": "Eleanor Roosevelt",
+          "task": "Spend 20 minutes outside with your phone in your pocket. Just notice the world."
+        },
+        {
+          "quote": "You only live once, but if you do it right, once is enough.",
+          "author": "Mae West",
+          "task": "Write down one thing you want to experience this year and schedule the first step today."
+        },
+        {
+          "quote": "Twenty years from now you will be more disappointed by the things you didn't do than by the ones you did.",
+          "author": "Mark Twain",
+          "task": "Reach out to one person you admire but have never contacted. Send a short, genuine message."
+        },
+        {
+          "quote": "The biggest adventure you can take is to live the life of your dreams.",
+          "author": "Oprah Winfrey",
+          "task": "Describe your ideal day in three sentences. Identify the one element you can bring into today."
+        }
+      ]
+    },
+    {
+      "id": "commitment",
+      "name": "Commitment",
+      "summary": "Keep promises, especially the ones made to yourself.",
+      "symbolName": "hands.sparkles",
+      "entries": [
+        {
+          "quote": "Unless commitment is made, there are only promises and hopes, but no plans.",
+          "author": "Peter F. Drucker",
+          "task": "Turn one vague intention into a specific commitment with a time, date, and next step."
+        },
+        {
+          "quote": "Commitment is what transforms a promise into reality.",
+          "author": "Abraham Lincoln",
+          "task": "Finish one task today that you have been postponing for more than a week."
+        },
+        {
+          "quote": "Stay committed to your decisions, but stay flexible in your approach.",
+          "author": "Tony Robbins",
+          "task": "Review one goal you set this month. Keep the goal, but change one tactic that isn't working."
+        },
+        {
+          "quote": "There's a difference between interest and commitment. When you're interested in doing something, you do it only when it's convenient. When you're committed, you accept no excuses, only results.",
+          "author": "Kenneth Blanchard",
+          "task": "Protect one hour today for your most important commitment. No phone, no meetings."
+        },
+        {
+          "quote": "Most people fail, not because of lack of desire, but because of lack of commitment.",
+          "author": "Vince Lombardi",
+          "task": "Write down the one commitment you will honor today no matter what. Then honor it."
+        },
+        {
+          "quote": "Once you make a decision, the universe conspires to make it happen.",
+          "author": "Ralph Waldo Emerson",
+          "task": "Publicly commit to a goal by telling one person exactly what you will do and by when."
+        }
+      ]
+    },
+    {
+      "id": "gratitude",
+      "name": "Gratitude",
+      "summary": "Notice what is already good.",
+      "symbolName": "heart.text.square",
+      "entries": [
+        {
+          "quote": "Gratitude turns what we have into enough.",
+          "author": "Aesop",
+          "task": "Write down three specific things you are grateful for today. No repeats from yesterday."
+        },
+        {
+          "quote": "The roots of all goodness lie in the soil of appreciation for goodness.",
+          "author": "Dalai Lama",
+          "task": "Thank someone today in a way that names exactly what they did and why it mattered."
+        },
+        {
+          "quote": "When you are grateful, fear disappears and abundance appears.",
+          "author": "Anthony Robbins",
+          "task": "Before your next meal, pause for 15 seconds and silently acknowledge the path that brought it to you."
+        },
+        {
+          "quote": "Gratitude is not only the greatest of virtues, but the parent of all the others.",
+          "author": "Cicero",
+          "task": "Reread a message from someone who once helped you. Let it land. Consider replying, even years late."
+        }
+      ]
+    },
+    {
+      "id": "discipline",
+      "name": "Discipline",
+      "summary": "Do what matters, especially when you don't feel like it.",
+      "symbolName": "timer",
+      "entries": [
+        {
+          "quote": "Discipline is choosing between what you want now and what you want most.",
+          "author": "Abraham Lincoln",
+          "task": "Identify one impulse you will resist today in service of a larger goal."
+        },
+        {
+          "quote": "We do not rise to the level of our goals. We fall to the level of our systems.",
+          "author": "James Clear",
+          "task": "Fix one friction point in your daily routine so the right action becomes the easy action."
+        },
+        {
+          "quote": "Discipline equals freedom.",
+          "author": "Jocko Willink",
+          "task": "Do the hardest thing on your list first today, before checking any messages."
+        },
+        {
+          "quote": "Motivation gets you going, but discipline keeps you growing.",
+          "author": "John C. Maxwell",
+          "task": "Complete one repetition of a habit you want to build, even if you only have five minutes."
+        }
+      ]
+    }
+  ]
+}
