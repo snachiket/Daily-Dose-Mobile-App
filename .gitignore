@@ -1,41 +1,30 @@
-## macOS
-.DS_Store
-.AppleDouble
-.LSOverride
+node_modules/
+.expo/
+dist/
+web-build/
 
-## Xcode user files
-xcuserdata/
-*.xcuserstate
-*.xcworkspace/xcuserdata/
-*.xcodeproj/xcuserdata/
-*.xcodeproj/project.xcworkspace/xcuserdata/
-*.xcscmblueprint
-*.xccheckout
-
-## Build output
-build/
-DerivedData/
+# native build output
+*.apk
+*.aab
 *.ipa
 *.dSYM.zip
 *.dSYM
+ios/
+android/
 
-## Swift Package Manager
-.swiftpm/
-Packages/
-Package.resolved
-.build/
+# env / secrets
+.env
+.env.local
+.env.*.local
 
-## CocoaPods
-Pods/
+# macOS / editor noise
+.DS_Store
+*.log
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+.idea/
+.vscode/
 
-## Carthage
-Carthage/Build/
-
-## Fastlane
-fastlane/report.xml
-fastlane/Preview.html
-fastlane/screenshots/**/*.png
-fastlane/test_output
-
-## XcodeGen-generated project (regenerated from project.yml)
-DailyDose.xcodeproj/
+# TypeScript
+expo-env.d.ts

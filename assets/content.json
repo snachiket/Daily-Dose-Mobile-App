@@ -5,7 +5,7 @@
       "id": "leadership",
       "name": "Leadership",
       "summary": "Guide, inspire, and serve others.",
-      "symbolName": "figure.2.and.child.holdinghands",
+      "iconName": "people",
       "entries": [
         {
           "quote": "A leader is one who knows the way, goes the way, and shows the way.",
@@ -48,7 +48,7 @@
       "id": "assertiveness",
       "name": "Assertiveness",
       "summary": "Speak your truth with clarity and respect.",
-      "symbolName": "megaphone",
+      "iconName": "megaphone",
       "entries": [
         {
           "quote": "The basic difference between being assertive and being aggressive is how our words and behavior affect the rights and well-being of others.",
@@ -86,7 +86,7 @@
       "id": "quality",
       "name": "Quality",
       "summary": "Do a few things, and do them excellently.",
-      "symbolName": "sparkles",
+      "iconName": "sparkles",
       "entries": [
         {
           "quote": "Quality is never an accident; it is always the result of intelligent effort.",
@@ -124,17 +124,17 @@
       "id": "large_life",
       "name": "Large Life",
       "summary": "Live expansively; refuse a small, fearful existence.",
-      "symbolName": "mountain.2",
+      "iconName": "earth",
       "entries": [
         {
           "quote": "Life shrinks or expands in proportion to one's courage.",
-          "author": "Anaïs Nin",
+          "author": "Anais Nin",
           "task": "Do one thing today that slightly scares you but you know would make you proud."
         },
         {
           "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
           "author": "Ralph Waldo Emerson",
-          "task": "Try one small thing you've never tried before — a route, a food, a conversation."
+          "task": "Try one small thing you've never tried before - a route, a food, a conversation."
         },
         {
           "quote": "The purpose of life is to live it, to taste experience to the utmost.",
@@ -162,7 +162,7 @@
       "id": "commitment",
       "name": "Commitment",
       "summary": "Keep promises, especially the ones made to yourself.",
-      "symbolName": "hands.sparkles",
+      "iconName": "ribbon",
       "entries": [
         {
           "quote": "Unless commitment is made, there are only promises and hopes, but no plans.",
@@ -200,7 +200,7 @@
       "id": "gratitude",
       "name": "Gratitude",
       "summary": "Notice what is already good.",
-      "symbolName": "heart.text.square",
+      "iconName": "heart",
       "entries": [
         {
           "quote": "Gratitude turns what we have into enough.",
@@ -228,7 +228,7 @@
       "id": "discipline",
       "name": "Discipline",
       "summary": "Do what matters, especially when you don't feel like it.",
-      "symbolName": "timer",
+      "iconName": "timer",
       "entries": [
         {
           "quote": "Discipline is choosing between what you want now and what you want most.",
